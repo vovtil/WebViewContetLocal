@@ -15,6 +15,12 @@
 		9F1E23D614DBF085001C7FEF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F1E23D514DBF085001C7FEF /* AppDelegate.m */; };
 		9F1E23D914DBF085001C7FEF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F1E23D814DBF085001C7FEF /* ViewController.m */; };
 		9F1E23DC14DBF085001C7FEF /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9F1E23DA14DBF085001C7FEF /* ViewController.xib */; };
+		9F1E23E314DBF73A001C7FEF /* backgroundWnd.png in Resources */ = {isa = PBXBuildFile; fileRef = 9F1E23E214DBF73A001C7FEF /* backgroundWnd.png */; };
+		9F7F4287159C737000CF5EE4 /* Техническое задание_iPad.docx in Resources */ = {isa = PBXBuildFile; fileRef = 9F7F4286159C737000CF5EE4 /* Техническое задание_iPad.docx */; };
+		9F7F428A159C790B00CF5EE4 /* наша.xls in Resources */ = {isa = PBXBuildFile; fileRef = 9F7F4289159C790B00CF5EE4 /* наша.xls */; };
+		9F7F428C159C7C8900CF5EE4 /* UsingApplicationLoader.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 9F7F428B159C7C8900CF5EE4 /* UsingApplicationLoader.pdf */; };
+		9F7F428E159C80A400CF5EE4 /* prottplv.ppt in Resources */ = {isa = PBXBuildFile; fileRef = 9F7F428D159C80A400CF5EE4 /* prottplv.ppt */; };
+		9F7F4290159C80FB00CF5EE4 /* 1.pptx in Resources */ = {isa = PBXBuildFile; fileRef = 9F7F428F159C80FB00CF5EE4 /* 1.pptx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,15 +28,21 @@
 		9F1E23C514DBF084001C7FEF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		9F1E23C714DBF084001C7FEF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9F1E23C914DBF084001C7FEF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		9F1E23CD14DBF084001C7FEF /* WebViewContetLocal-Info.plist */ = {isa = PBXFileReference; path = "WebViewContetLocal-Info.plist"; sourceTree = "<group>"; };
+		9F1E23CD14DBF084001C7FEF /* WebViewContetLocal-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WebViewContetLocal-Info.plist"; sourceTree = "<group>"; };
 		9F1E23CF14DBF084001C7FEF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9F1E23D114DBF084001C7FEF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		9F1E23D314DBF084001C7FEF /* WebViewContetLocal-Prefix.pch */ = {isa = PBXFileReference; path = "WebViewContetLocal-Prefix.pch"; sourceTree = "<group>"; };
-		9F1E23D414DBF084001C7FEF /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		9F1E23D314DBF084001C7FEF /* WebViewContetLocal-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WebViewContetLocal-Prefix.pch"; sourceTree = "<group>"; };
+		9F1E23D414DBF084001C7FEF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		9F1E23D514DBF085001C7FEF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		9F1E23D714DBF085001C7FEF /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		9F1E23D714DBF085001C7FEF /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		9F1E23D814DBF085001C7FEF /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		9F1E23DB14DBF085001C7FEF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		9F1E23E214DBF73A001C7FEF /* backgroundWnd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backgroundWnd.png; sourceTree = "<group>"; };
+		9F7F4286159C737000CF5EE4 /* Техническое задание_iPad.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Техническое задание_iPad.docx"; sourceTree = "<group>"; };
+		9F7F4289159C790B00CF5EE4 /* наша.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = "наша.xls"; sourceTree = "<group>"; };
+		9F7F428B159C7C8900CF5EE4 /* UsingApplicationLoader.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = UsingApplicationLoader.pdf; sourceTree = "<group>"; };
+		9F7F428D159C80A400CF5EE4 /* prottplv.ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = prottplv.ppt; sourceTree = "<group>"; };
+		9F7F428F159C80FB00CF5EE4 /* 1.pptx */ = {isa = PBXFileReference; lastKnownFileType = file; path = 1.pptx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +62,11 @@
 		9F1E23B614DBF084001C7FEF = {
 			isa = PBXGroup;
 			children = (
+				9F7F428F159C80FB00CF5EE4 /* 1.pptx */,
+				9F7F428D159C80A400CF5EE4 /* prottplv.ppt */,
+				9F7F428B159C7C8900CF5EE4 /* UsingApplicationLoader.pdf */,
+				9F7F4289159C790B00CF5EE4 /* наша.xls */,
+				9F7F4286159C737000CF5EE4 /* Техническое задание_iPad.docx */,
 				9F1E23CB14DBF084001C7FEF /* WebViewContetLocal */,
 				9F1E23C414DBF084001C7FEF /* Frameworks */,
 				9F1E23C214DBF084001C7FEF /* Products */,
@@ -77,6 +94,7 @@
 		9F1E23CB14DBF084001C7FEF /* WebViewContetLocal */ = {
 			isa = PBXGroup;
 			children = (
+				9F1E23E214DBF73A001C7FEF /* backgroundWnd.png */,
 				9F1E23D414DBF084001C7FEF /* AppDelegate.h */,
 				9F1E23D514DBF085001C7FEF /* AppDelegate.m */,
 				9F1E23D714DBF085001C7FEF /* ViewController.h */,
@@ -150,6 +168,12 @@
 			files = (
 				9F1E23D014DBF084001C7FEF /* InfoPlist.strings in Resources */,
 				9F1E23DC14DBF085001C7FEF /* ViewController.xib in Resources */,
+				9F1E23E314DBF73A001C7FEF /* backgroundWnd.png in Resources */,
+				9F7F4287159C737000CF5EE4 /* Техническое задание_iPad.docx in Resources */,
+				9F7F428A159C790B00CF5EE4 /* наша.xls in Resources */,
+				9F7F428C159C7C8900CF5EE4 /* UsingApplicationLoader.pdf in Resources */,
+				9F7F428E159C80A400CF5EE4 /* prottplv.ppt in Resources */,
+				9F7F4290159C80FB00CF5EE4 /* 1.pptx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +298,7 @@
 				9F1E23E114DBF085001C7FEF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
